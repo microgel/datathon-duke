@@ -1,9 +1,9 @@
-# Load the Pandas libraries with alias 'pd' 
+# Load the Pandas libraries with alias 'pd'
 import pandas as pd 
 # Read data from file 'filename.csv' 
 # (in the same directory that your python process is based)
 # Control delimiters, rows, column names with read_csv (see later) 
-data = pd.read_csv("data/datathon1.csv") 
+data = pd.read_csv("dataset/affinity.csv")
 # Preview the first 5 lines of the loaded data 
 mp =  dict()
 mp.update({
@@ -66,4 +66,4 @@ for ind in data.index:
     data['cityid'][ind] = mp[str(data['cityid'][ind])]
 
 print(data)
-data.to_csv('output.csv',index=False)
+data.to_csv('affinity2.csv',index=False)
