@@ -9,7 +9,7 @@ Raw data is in the `data` directory and the sanitised version is `sanitised` dir
 
 ## Visualisations 
 - Employment : https://public.tableau.com/views/USMetroEmploymentLevel/Dashboard1?:language=en-GB&:display_count=y&:toolbar=n&:origin=viz_share_link
-- Unemployment : cAhttps://public.tableau.com/views/USMetrosUnemploymentInsuranceClaimssinceCOVID-19onset/Dashboard1?:language=en-GB&:display_count=y&:toolbar=n&:origin=viz_share_link
+- Unemployment : https://public.tableau.com/views/USMetrosUnemploymentInsuranceClaimssinceCOVID-19onset/Dashboard1?:language=en-GB&:display_count=y&:toolbar=n&:origin=viz_share_link
 - Job Posting : https://public.tableau.com/views/USMetrosAverageLevelofJobPostingssinceCOVID-19onset/Sheet1?:language=en-GB&:display_count=y&:origin=viz_share_link
 - GPS Mobility Data : https://public.tableau.com/views/GPSMobilityData-USMetrosinceCOVID-19onset/Dashboard1?:language=en-GB&:display_count=y&:toolbar=n&:origin=viz_share_link
 - Public Administration Indicators : https://public.tableau.com/views/USMetroCreditDebitcardspendinginallmerchantcategorycodes7daymovingaverage/Dashboard1?:language=en-GB&:display_count=y&:toolbar=n&:origin=viz_share_link
